@@ -108,6 +108,10 @@
 4. 더 가고 싶으면: 촬영 사진 augmentation(회전·기울기·명암)으로 재학습, 또는
    MNIST 대신 자기 필체 데이터 수집.
 
+**학습 예정**: `photo_preprocessing_test.py`는 AI 도움으로 구현했고 아직 스스로 처음부터
+짤 수준은 아니다. `코드해설_photo_preprocessing.md`에 한 줄씩 풀어놓았으며, 나중에 이
+해설을 따라 numpy 배열 연산과 Otsu 알고리즘을 손으로 계산해보는 것을 목표로 한다.
+
 ## 재현 방법
 
 ```powershell

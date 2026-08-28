@@ -24,3 +24,12 @@
 ## 관련 기록
 
 - 학습 절차 상세: `Desktop\학습용\python_study_procedure.md` (238단계~)
+
+## 작성 방식 명시
+
+이 저장소의 문서(`troubleshooting/`, `experiments/`의 `.md`)와 분석 스크립트
+(`experiments/photo_preprocessing_test.py`)는 **실습을 진행하면서 Claude(AI)와 나눈
+대화를 바탕으로 작성**되었다.
+
+- 실습 수행·명령 실행·이미지 촬영·결과 확인은 직접 한 것이며, 결과 수치는 실제 실행값이다.
+- 문제 원인 분석, 문서 정리, Otsu 이진화 스크립트 구현에는 AI를 활용했다.
